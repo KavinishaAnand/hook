@@ -6,7 +6,7 @@ function Home() {
             <p>kavinisha Ananthan</p>
             <p>Home components</p>
             <p>Let's go buddy</p>
-
+            <h6>addd meee............</h6>
         </div>
     )
 }
